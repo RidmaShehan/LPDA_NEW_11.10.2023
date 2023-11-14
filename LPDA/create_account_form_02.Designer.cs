@@ -82,7 +82,6 @@
             this.email_text.Name = "email_text";
             this.email_text.Size = new System.Drawing.Size(417, 27);
             this.email_text.TabIndex = 1;
-            //this.email_text.Click += new System.EventHandler(this.email_text_Click);
             this.email_text.TextChanged += new System.EventHandler(this.email_text_TextChanged);
             this.email_text.KeyDown += new System.Windows.Forms.KeyEventHandler(this.email_text_KeyDown);
             // 

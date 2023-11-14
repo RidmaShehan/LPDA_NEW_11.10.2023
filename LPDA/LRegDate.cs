@@ -27,8 +27,14 @@ namespace LPDA
         private string Password;
         private string ZipCode;
         private string TempPassword;
+        private String CurrentUser;    // This variable holds 1 as an identifier of the current logged in user.
+        // Because it is easy to identify the current log user and access his database data field is very easy. ( FOR THER DEVELOPER ACCESS )
 
-    //====================== This is data setters.... ======================
+        //====================== This is data setters.... ======================
+        public void setCrrentuser(String CurrentUser) 
+        { 
+            this.CurrentUser = CurrentUser;
+        }
         public void setSurname(String Surname) 
         {
             this.Surname = Surname;
@@ -79,6 +85,11 @@ namespace LPDA
         }
 
     //====================== This is data getters.... ======================
+
+        public String getCurrentUser() 
+        {
+            return this.CurrentUser;
+        }
         public String getSurname() 
         {
             return this.Surname;

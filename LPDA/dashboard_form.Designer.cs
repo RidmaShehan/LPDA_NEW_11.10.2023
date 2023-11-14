@@ -98,7 +98,7 @@
             this.sidebar.MaximumSize = new System.Drawing.Size(309, 1033);
             this.sidebar.MinimumSize = new System.Drawing.Size(131, 1033);
             this.sidebar.Name = "sidebar";
-            this.sidebar.Size = new System.Drawing.Size(131, 1033);
+            this.sidebar.Size = new System.Drawing.Size(309, 1033);
             this.sidebar.TabIndex = 2;
             this.sidebar.Paint += new System.Windows.Forms.PaintEventHandler(this.sidebar_Paint);
             // 

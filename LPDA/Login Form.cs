@@ -14,7 +14,8 @@ namespace LPDA
 {
     public partial class Form1 : Form
     {
-        
+        LRegDate LRegDate = new LRegDate();
+
         dashboard_form dashboard_form = new dashboard_form();//  <----Create an instance of the new form....
 
 
@@ -169,6 +170,7 @@ namespace LPDA
                 user_name_correct_picture.Visible = true; 
                 UserNameAndPasswordIsCorrect = true;
                 this.Hide();    //  <---- If USER NAME & PASSWORD are correct then hide this form.
+                LRegDate.setCrrentuser(user_name_text_box.Text);
                 dashboard_form.Show();//  <---- Then show DASHBORD FORM.
             }
             else//  <----if USER Entered password is incorrect.

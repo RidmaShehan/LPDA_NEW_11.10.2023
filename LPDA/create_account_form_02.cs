@@ -17,7 +17,9 @@ namespace LPDA
 {
     public partial class create_account_form_02 : Form
     {
+        // data and methods include class
         private LRegDate data;
+
         // Create an instance of the login_form
         Form1 login_form = new Form1();
 
@@ -258,7 +260,7 @@ namespace LPDA
 
         private void confirm_password_TextChanged(object sender, EventArgs e)
         {
-
+             
         }
 
         private void confirm_password_KeyDown(object sender, KeyEventArgs e)
@@ -515,5 +517,7 @@ namespace LPDA
         {
             teamsAndCondition_Form.ShowDialog(); 
         }
+
+      
     }
 }

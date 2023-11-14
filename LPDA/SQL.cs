@@ -23,7 +23,7 @@ public static class SQL
     {
         SqlConnection connection = GetConnection();
         SqlCommand command = new SqlCommand(query, connection);
-        connection.Open();
+        connection.Open();// connect  the database 
         return command.ExecuteReader();
     }
 }

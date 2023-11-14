@@ -84,7 +84,7 @@
             // 
             this.mailAddrTextBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.mailAddrTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.mailAddrTextBox.Location = new System.Drawing.Point(85, 629);
+            this.mailAddrTextBox.Location = new System.Drawing.Point(85, 630);
             this.mailAddrTextBox.Name = "mailAddrTextBox";
             this.mailAddrTextBox.Size = new System.Drawing.Size(505, 26);
             this.mailAddrTextBox.TabIndex = 5;
