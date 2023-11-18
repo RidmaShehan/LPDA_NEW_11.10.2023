@@ -16,7 +16,7 @@ namespace LPDA
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new client_registration_form());
         }
     }
 }
