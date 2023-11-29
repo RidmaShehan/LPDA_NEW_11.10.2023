@@ -21,7 +21,7 @@ This project aims to provide lawyers with a digital assistant to streamline thei
 The class diagram represents the main classes in the system, their attributes, and relationships. Key classes include Lawyer, Client, Party, Task, and Report.
 
 ## Activity Diagram
-![Activity Diagram](link-to-your-activity-diagram-image)
+![Activity Diagram](https://github.com/RidmaShehan/LPDA_NEW_11.10.2023/blob/ridma/LPDA/Resources/Artboard%201.png)
 
 The activity diagram illustrates the main activities performed by Lawyers and Clients within the system. It outlines the steps for registration, login, client management, case updates, task management, and report generation.
 
