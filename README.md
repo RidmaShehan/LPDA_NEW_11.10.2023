@@ -37,5 +37,5 @@ The activity diagram illustrates the main activities performed by Lawyers and Cl
 ## Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+[   git clone https://github.com/your-username/your-repository.git
+   cd your-repository](https://github.com/RidmaShehan/LPDA_NEW_11.10.2023.git)https://github.com/RidmaShehan/LPDA_NEW_11.10.2023.git
