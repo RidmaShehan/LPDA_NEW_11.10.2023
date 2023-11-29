@@ -16,7 +16,7 @@ Welcome to the Lawyers' Personal Digital Assistant project! This application is 
 This project aims to provide lawyers with a digital assistant to streamline their workflow. It includes features such as client management, case updates, task management, and report generation.
 
 ## Class Diagram
-![Class Diagram]("C:\Users\HP\Downloads\chatuml-diagram (12).png")
+![Class Diagram]()
 
 The class diagram represents the main classes in the system, their attributes, and relationships. Key classes include Lawyer, Client, Party, Task, and Report.
 
