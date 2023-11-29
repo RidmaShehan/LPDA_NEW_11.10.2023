@@ -63,16 +63,6 @@ namespace LPDA.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Artboard_1_copy {
-            get {
-                object obj = ResourceManager.GetObject("Artboard 1 copy", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap pic4 {
             get {
                 object obj = ResourceManager.GetObject("pic4", resourceCulture);
@@ -83,9 +73,9 @@ namespace LPDA.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Untitled_1 {
+        internal static System.Drawing.Bitmap watch_time_clock_icon_221069 {
             get {
-                object obj = ResourceManager.GetObject("Untitled-1", resourceCulture);
+                object obj = ResourceManager.GetObject("watch_time_clock_icon_221069", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -96,16 +86,6 @@ namespace LPDA.Properties {
         internal static System.Drawing.Bitmap win {
             get {
                 object obj = ResourceManager.GetObject("win", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap win1 {
-            get {
-                object obj = ResourceManager.GetObject("win1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
