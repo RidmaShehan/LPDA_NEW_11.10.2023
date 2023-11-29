@@ -36,6 +36,6 @@ The activity diagram illustrates the main activities performed by Lawyers and Cl
 
 ## Installation
 1. Clone the repository
-2. https://github.com/RidmaShehan/LPDA_NEW_11.10.2023.git
    ```bash
+   https://github.com/RidmaShehan/LPDA_NEW_11.10.2023.git
 
