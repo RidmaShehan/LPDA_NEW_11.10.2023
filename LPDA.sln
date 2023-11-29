@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPDA", "LPDA\LPDA.csproj", "{285EC827-4D38-4607-A631-FCC2488989C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPDA", "LPDA\LPDA.csproj", "{0F9A5F9F-3E11-400E-9D17-ECCA314A0EE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{285EC827-4D38-4607-A631-FCC2488989C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{285EC827-4D38-4607-A631-FCC2488989C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{285EC827-4D38-4607-A631-FCC2488989C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{285EC827-4D38-4607-A631-FCC2488989C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9A5F9F-3E11-400E-9D17-ECCA314A0EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9A5F9F-3E11-400E-9D17-ECCA314A0EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9A5F9F-3E11-400E-9D17-ECCA314A0EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9A5F9F-3E11-400E-9D17-ECCA314A0EE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {143FCCA9-9075-426A-AAF9-A19FBE134812}
+		SolutionGuid = {CEC473F1-92EE-4875-B1FC-5027D207FB2A}
 	EndGlobalSection
 EndGlobal
