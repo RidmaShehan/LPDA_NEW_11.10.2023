@@ -1,0 +1,11 @@
+C:\Users\NooBy\OneDrive\Desktop\New folder (2)\LPDA\bin\Debug\LPDA.exe.config
+C:\Users\NooBy\OneDrive\Desktop\New folder (2)\LPDA\bin\Debug\LPDA.exe
+C:\Users\NooBy\OneDrive\Desktop\New folder (2)\LPDA\bin\Debug\LPDA.pdb
+C:\Users\NooBy\OneDrive\Desktop\New folder (2)\LPDA\obj\Debug\LPDA.csproj.AssemblyReference.cache
+C:\Users\NooBy\OneDrive\Desktop\New folder (2)\LPDA\obj\Debug\LPDA.csproj.SuggestedBindingRedirects.cache
+C:\Users\NooBy\OneDrive\Desktop\New folder (2)\LPDA\obj\Debug\LPDA.Properties.Resources.resources
+C:\Users\NooBy\OneDrive\Desktop\New folder (2)\LPDA\obj\Debug\LPDA.csproj.GenerateResource.cache
+C:\Users\NooBy\OneDrive\Desktop\New folder (2)\LPDA\obj\Debug\LPDA.csproj.CoreCompileInputs.cache
+C:\Users\NooBy\OneDrive\Desktop\New folder (2)\LPDA\obj\Debug\LPDA.exe
+C:\Users\NooBy\OneDrive\Desktop\New folder (2)\LPDA\obj\Debug\LPDA.pdb
+C:\Users\NooBy\OneDrive\Desktop\New folder (2)\LPDA\obj\Debug\LPDA.p1.resources
